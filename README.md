@@ -3,3 +3,4 @@ body {
     background: black;
     color: white;
 }
+console.log("JS ishlayapti");
