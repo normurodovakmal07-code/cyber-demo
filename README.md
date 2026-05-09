@@ -4,3 +4,6 @@ body {
     color: white;
 }
 console.log("JS ishlayapti");
+git add .
+git commit -m "Add script.js"
+git push origin main
